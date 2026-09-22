@@ -1,4 +1,4 @@
-// TXMascot for macOS v3 — 天选姬桌宠
+// TXMascot for macOS beta v1.0 — 天选姬桌宠
 // v3 新增: 开机自启动 / 位置设置记忆 / 定时提醒 / 找茬计分 / 换装 / 猫咪彩蛋 / 双击交互 / 全局快捷键
 #import <AppKit/AppKit.h>
 #import <AVFoundation/AVFoundation.h>
